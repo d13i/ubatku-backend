@@ -2,13 +2,21 @@
 
 An app that reminds users to take their medication
 
-Flow:
+Insert Flow:
 
 1. Take pic of prescription
 2. Pass to vlm, structured output
-3. Additional calculations for quantity calculations
-4. Send params to frontend for alarm settings
-5. Additional settings to caretaker for confirmation??
+3. Ask for user input if have missing info
+4. Additional calculations for quantity calculations
+5. Send params to frontend for alarm settings
+6. Additional settings to caretaker for confirmation??
+
+Remind Flow:
+
+1. Alarm goes off, specific quantity, method etc...
+2. User required to take pic to send evidence to caretaker
+3. Update backend on quantity
+4. SNOOZE EMERGENCY??
 
 Setup
 
